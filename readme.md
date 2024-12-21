@@ -16,6 +16,8 @@ EducationDAO is a decentralized autonomous organization (DAO) designed to empowe
 Contract Address
 
 0xDCABc0EE148248998c9077B2344A5B7B1b4F9f4F
+![image](https://github.com/user-attachments/assets/b43e1969-2b6a-4cd0-8cd5-c58296fa080c)
+
 
 
 Project Vision
